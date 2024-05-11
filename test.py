@@ -9,7 +9,7 @@ def index():
     font_color = "white"  # Replace with the desired font color
 
     # Install required dependencies
-    install_dependencies()
+    pip install -r requirements.txt
 
     # Open fullscreen and display content
     open_fullscreen(website_url, your_content, background_color, font_color)
