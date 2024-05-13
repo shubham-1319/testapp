@@ -1,3 +1,6 @@
-pip
-streamlit
-tkinter
+# Python version
+python>=3.6
+
+# Required packages
+pip>=21.3.1
+streamlit>=1.2.0
